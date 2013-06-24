@@ -3,3 +3,9 @@ rhys:
   last_name: "Watkins"
   email: "rhyswatkins@btinternet.com"
   profile_name: "RhysWatkins"
+
+mike:
+  first_name: "Mike"
+  last_name: "Frog"
+  email: "mike@frog.com"
+  profile_name: "frogster"
